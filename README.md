@@ -17,7 +17,7 @@ An archive of a past project where I built a machine learning model to predict P
 
 ## 🛠️ Tech Stack
 - **Python** (data wrangling, modeling)  
-- **Pandas / NumPy** (data preprocessing & analysis)  
+- **Pandas** (data preprocessing & analysis)  
 - **Scikit-learn** (machine learning models)  
 - **Requests / BeautifulSoup** (web scraping, currently non-functional)  
 
